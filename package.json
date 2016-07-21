@@ -1,0 +1,17 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "Shopping cart by using Spring framework and Angular js as frontend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "jquery": "^1.9.1"
+  }
+}
